@@ -1,1 +1,6 @@
-
+1. Meet and understand what is end goal of the business users
+2. Gather all the source systems that gives the information and data for business users reporting
+3. Analyze the data sources and understand the data better
+4. Design the end to end data flow 
+5. Come up with a plan on what tools to use to achieve this data flow.
+6. 
